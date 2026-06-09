@@ -1,4 +1,5 @@
-# Network Traffic Analysis & Intrusion Detection via Wireshark
+ **[Network Traffic Analysis & Intrusion Detection](https://github.com/OuadieMajt/Network-Traffic-Analysis-Wireshark)** - Investigating network anomalies, isolating TCP stealth scans, and analyzing unencrypted HTTP packet streams.
+
 ### Security Analyst Technical Case Study (Google Cybersecurity Certificate Project)
 
 ## 📌 Incident Objective
